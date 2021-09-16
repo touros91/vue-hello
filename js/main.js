@@ -9,7 +9,7 @@ const app = new Vue(
         data: {
             message: "Benvenuto Vue.js!!!",
             img: "img/vue.jpeg",
-            altText: "Immagine di Vue.js",
+            altText: "Immagine di Vue.js"
         }
     }
 );
